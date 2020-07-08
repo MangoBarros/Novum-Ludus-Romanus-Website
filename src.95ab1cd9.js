@@ -20,4 +20,4 @@ var t,e=arguments[3];!function(e,n){"object"==typeof exports&&"undefined"!=typeo
 },{"./..\\Fonts\\Romanica.ttf":[["Romanica.1f94484e.ttf","wdHX"],"wdHX"]}],"Focm":[function(require,module,exports) {
 "use strict";require("bootstrap"),require("bootstrap/dist/css/bootstrap.css"),require("./Assets/style.css");
 },{"bootstrap":"BQpi","bootstrap/dist/css/bootstrap.css":"w26S","./Assets/style.css":"yNic"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.4b70b81e.js.map
+//# sourceMappingURL=https://mangobarros.github.io/Novum-Ludus-Romanus-Website/src.95ab1cd9.js.map

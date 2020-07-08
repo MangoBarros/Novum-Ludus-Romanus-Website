@@ -1,0 +1,15 @@
+html,body{
+    background-image: linear-gradient(to bottom right,rgb(136,70,18),rgb(235,212,144));
+    width: 100%;
+    height: fit-content;
+}
+
+@font-face{
+    font-family: "Romanica";
+    src: url(../Fonts/Romanica.ttf);
+}
+
+#title{
+    font-family: Romanica;
+}
+

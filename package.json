@@ -9,7 +9,7 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "scripts": {
     "start": "parcel src/index.html",
